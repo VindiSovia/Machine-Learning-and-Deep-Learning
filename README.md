@@ -12,10 +12,7 @@ Deep Learning for MNIST Handwritten Digit Classification using PyTorch. This is 
 a Handwritten Digit Classification task using Neural Network architecture (not Convolutional Neural Network).
 
 # Bonus Taks
-This problem description is the same as Task 3. But there are some technical challenges that you have to choose one.
-1. Compare 3 different configurations while your model is
-wider/deeper. Show and explain the performance result.
-2. Compare 3 configurations for different Loss Function. Show and
-explain your performance result.
-3. Compare 3 configurations for the activation function. Show and
-explain your performance result.
+This problem description is the same as Task 3.
+1. Compare 3 different configurations while your model is wider/deeper.
+2. Compare 3 configurations for different Loss Function.
+3. Compare 3 configurations for the activation function. 
